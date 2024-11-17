@@ -1,7 +1,15 @@
-header {
-    display: flex;
+body {
+    margin: 0;
+    padding: 0;
 }
 
-h5{
-    color: red;
+.container {
+    padding: 20px  0px;
+}
+
+.logo{
+    width: 120px;
+}
+.container-fluid {
+    background-color: #460A40 !important;
 }
